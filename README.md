@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my main website czepeda.com
 - 🌱 I’m currently learning JavaScript for the fifth time!?
-- 📫 How to reach me: @cazepeda on most online platforms.
 - ⚡ Fun fact: I speak three languages, Español, English and Portugues (Brazilian).
